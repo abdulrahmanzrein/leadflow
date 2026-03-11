@@ -5,3 +5,6 @@ __pycache__/
 .DS_Store
 node_modules/
 .next/
+
+# Internal docs
+docs/PRD.md
